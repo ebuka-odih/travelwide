@@ -505,17 +505,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="field--item">
 
-
-                                <div class="paragraph clearfix row paragraph--type--reviews-from-feefo paragraph--view-mode--default recent-store-reviews">
-                                    <div class="col-xs-12 text-center" style="padding: 0;">
-                                        <h2>
-                                            <div class="field field--name-field-title field--type-string field--label-hidden field--item">Recent Customer Reviews</div>
-                                        </h2>
-                                        <div class="ReactRecentStoreReviewsList" data-id="https://api.feefo.com/api/10/reviews/service?merchant_identifier=liberty-travel&amp;rating=4%2C5&amp;sort=-created_date&amp;page_size=30&amp;full_thread=include" data-summary-id="https://api.feefo.com/api/10/reviews/summary/all?merchant_identifier=liberty-travel"></div>
-                                    </div>
-                                </div></div>
                             <div class="field--item">  <div class="paragraph paragraph--type--homepage-blog-post paragraph--view-mode--default">
 
                                     <div class="field field--name-field-homepage-blog-post field--type-block-field field--label-hidden field--item"><section data-block-plugin-id="views_block:homepage_blog_post-block_1" class="block block-views block-views-blockhomepage-blog-post-block-1 clearfix">
@@ -584,36 +574,6 @@ To help you pick from the several hotels in the area, we’ve rounded up the bes
 
     </div>
 
-    <div class="bottom">  <div class="region region-bottom">
-
-
-
-            <section id="block-standardctas" data-block-plugin-id="block_content:30dbfe46-6db8-4812-a1a1-8a149336c74f" class="block block-block-content block-block-content30dbfe46-6db8-4812-a1a1-8a149336c74f clearfix block-type-cta">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="cta_container">
-                            <h2 class="cta_title">The Travel Wide Experience</h2>
-                            <div class="cta_body">
-
-                                <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p>At Travel Wide it’s the people who make a difference. Our travel experts craft the perfect trip for every traveler through our award-winning customer service. Real people helping real people. <a >Beside you every step of the way.</a></p></div>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </section>
-            <section id="block-coopbottom" data-block-plugin-id="coop_bottom" class="block block-coop-block block-coop-bottom clearfix">
-
-                <h2 class="block-title">Sponsored Vacations</h2>
-
-
-                <div id="coop-bottom-block"></div>
-            </section>
-
-
-        </div>
-    </div>
 </div>
 
 @endsection
